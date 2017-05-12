@@ -38,6 +38,7 @@ taps:
 - caddy
 - cake
 - capnp
+- caskroom/cask
 - certbot
 - certigo
 - cfengine
@@ -107,6 +108,7 @@ taps:
 - gtksourceviewmm
 - gws
 - homebrew/core
+- homebrew/science
 - hugo
 - hydra
 - hyper
