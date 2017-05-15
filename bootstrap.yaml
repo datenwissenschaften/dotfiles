@@ -6,6 +6,7 @@ formulas:
 symlinks:
     atom/.*: '~'
     bash/.*: '~'
+    beaker/.*: '~'
 taps:
 - ''
 - ==> Auto-updated Homebrew!

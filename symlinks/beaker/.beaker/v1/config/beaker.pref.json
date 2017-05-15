@@ -1,0 +1,14 @@
+{
+  "autocomplete-parameters" : "true",
+  "pref-format" : "1",
+  "allow-anonymous-usage-tracking" : false,
+  "languages" : {
+    "IPython" : {
+      "path" : "/Users/martinf/anaconda/bin"
+    },
+    "Python3" : {
+      "path" : "/Users/martinf/anaconda/envs/py3k/bin"
+    }
+  },
+  "edit-mode" : "default"
+}

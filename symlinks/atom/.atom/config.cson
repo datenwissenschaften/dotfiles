@@ -3,3 +3,5 @@
     telemetryConsent: "no"
   "exception-reporting":
     userId: "640340b5-0baa-4010-b77c-17bf9190ec5c"
+  welcome:
+    showOnStartup: false
