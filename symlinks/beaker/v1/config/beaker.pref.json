@@ -1,6 +1,7 @@
 {
   "autocomplete-parameters" : "true",
   "pref-format" : "1",
+  "edit-mode" : "default",
   "allow-anonymous-usage-tracking" : false,
   "languages" : {
     "IPython" : {
